@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/saloon-web/static/js/main.8cb644ef.js",
+    "static/js/915.49db40e9.js": "/saloon-web/static/js/915.49db40e9.js",
+    "static/media/MaterialCommunityIcons.ttf": "/saloon-web/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Base.jpg": "/saloon-web/static/media/Base.fcaeaf7cca13d3dde112.jpg",
+    "static/media/Ionicons.ttf": "/saloon-web/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/FontAwesome.ttf": "/saloon-web/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Logo.png": "/saloon-web/static/media/Logo.96e9b2615a81a4caf219.png",
+    "static/media/AntDesign.ttf": "/saloon-web/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Yekan-Light.ttf": "/saloon-web/static/media/Yekan-Light.aaaaece0a9a9638b0c18.ttf",
+    "static/media/Yekan-Medium.ttf": "/saloon-web/static/media/Yekan-Medium.425762078aac1e6d5c2f.ttf",
+    "static/media/Yekan.ttf": "/saloon-web/static/media/Yekan.57d21f9129237cea1fd3.ttf",
+    "static/media/Yekan-ExtraBold.ttf": "/saloon-web/static/media/Yekan-ExtraBold.d88a9d60c9aac43a82f3.ttf",
+    "static/media/Yekan-Bold.ttf": "/saloon-web/static/media/Yekan-Bold.b6da2dc47e3ed97283cd.ttf",
+    "static/media/Banner.jpg": "/saloon-web/static/media/Banner.95ea7997040d795ddf09.jpg",
+    "static/media/SimpleLineIcons.ttf": "/saloon-web/static/media/SimpleLineIcons.3ec13a24af3fdda11107.ttf",
+    "favicon.ico": "/saloon-web/favicon.ico",
+    "index.html": "/saloon-web/index.html",
+    "static/media/Avatar.png": "/saloon-web/static/media/Avatar.fedca0dca7dc6798afac.png",
+    "favicon-32.png": "/saloon-web/favicon-32.png",
+    "favicon-16.png": "/saloon-web/favicon-16.png",
+    "manifest.json": "/saloon-web/manifest.json",
+    "serve.json": "/saloon-web/serve.json",
+    "main.8cb644ef.js.map": "/saloon-web/static/js/main.8cb644ef.js.map",
+    "915.49db40e9.js.map": "/saloon-web/static/js/915.49db40e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/915.49db40e9.js",
+    "static/js/main.8cb644ef.js"
+  ]
+}
