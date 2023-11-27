@@ -2,19 +2,19 @@
   "background_color": "#151515",
   "display": "standalone",
   "lang": "en",
-  "name": "Lobat",
-  "short_name": "Lobat",
+  "name": "Saloon",
+  "short_name": "Saloon",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "com.lobat.app"
+      "id": "com.saloon.app"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.lobat.app",
-      "id": "com.lobat.app"
+      "url": "http://play.google.com/store/apps/details?id=com.saloon.app",
+      "id": "com.saloon.app"
     }
   ],
   "prefer_related_applications": true
